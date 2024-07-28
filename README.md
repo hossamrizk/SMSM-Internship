@@ -1,4 +1,4 @@
-# SMSM Internship and Projects
+# SMSM Internship Journey
 
 Welcome to the repository showcasing my work during the SMSM internship, as well as other significant projects. This repository includes datasets and models developed for various machine learning tasks.
 
